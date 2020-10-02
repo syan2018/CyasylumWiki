@@ -5,4 +5,4 @@ PublicWiki/output
 PublicWiki/tiddlers/private-MyTiddlyWiki
 /scripts/daemon
 $__StoryList.tid
-
+package-lock.json
