@@ -13,10 +13,10 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Home</loc>
+		<loc>https://wiki.onetwo.ren/#:NLP（自然语言处理）</loc>
 		<lastmod>2020-10-02</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>1.0</priority>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:TiddlyMap!!</loc>
@@ -39,6 +39,18 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:主页，扬帆！</loc>
+		<lastmod>2020-10-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:考研复习</loc>
+		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
