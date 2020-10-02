@@ -1,61 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://wiki.cyasylum.top/#:DeepLearning-Collection</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:DeepLearning-Collection</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:GCN-intro</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:GCN-intro</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:Have%2520fun%2520with</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:Have%2520fun%2520with</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:NLP（自然语言处理）</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:NLP（自然语言处理）</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:TiddlyMap!!</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:TiddlyMap!!</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:TiddlyWikiIconBlack.png</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:TiddlyWikiIconWhite.png</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:TiddlyWikiIconWhite.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:favicon.ico</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:主页，扬帆！</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://wiki.cyasylum.top/#:考研复习</loc>
+		<loc>https://syan2018.github.io/CyasylumWiki#:游戏推介</loc>
+		<lastmod>2020-10-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:考研复习</loc>
 		<lastmod>2020-10-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
