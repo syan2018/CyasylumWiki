@@ -1,6 +1,6 @@
 created: 20201002092127145
 creator: Syan
-modified: 20201002092436238
+modified: 20201002102726505
 modifier: Syan
 tags: 深度学习 计算机科学
 title: DeepLearning-Collection
@@ -11,7 +11,7 @@ WIKI中深度学习有关文章的聚合页，从属于计算机科学大类
 
 * 深度学习引论
 
-* NLP（自然语言处理）
+* [[NLP（自然语言处理）]]
 
 * CV（计算机视觉）
 
