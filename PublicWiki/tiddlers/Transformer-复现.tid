@@ -1,14 +1,14 @@
 created: 20201002134224591
 creator: Syan
-modified: 20201002134403577
+modified: 20201005123333404
 modifier: Syan
 tags: 深度学习 NLP（自然语言处理）
 title: Transformer-复现
 tmap.id: c3b7dedf-7000-452e-9652-a8850fbb07a2
 type: text/vnd.tiddlywiki
 
-最近被导师安排课题了，安排得明明白白，老CV被迫接触NLP
+最近被导师安排课题了，安排得明明白白，老CV人被迫接触NLP
 
-我还是老咸鱼了。为了不被导师单杀，姑且作为入门和复建，尝试性地做一下最热门且最实用的Transformer结构复现
+为了不被导师单杀，姑且作为入门和复建，尝试性地做一下最热门且最实用的Transformer结构复现
 
 [[火炬心法大战变形金刚|http://blog.cyasylum.top/index.php/2020/09/25/%e7%ae%80%e5%8d%95%e5%a4%8d%e7%8e%b0%e5%8f%98%e5%bd%a2%e9%87%91%e5%88%9a%ef%bc%88%ef%bc%9f/]]

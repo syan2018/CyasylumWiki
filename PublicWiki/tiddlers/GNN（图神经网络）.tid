@@ -1,10 +1,10 @@
 created: 20201005121221689
 creator: Syan
-modified: 20201005121244603
+modified: 20201005135029002
 modifier: Syan
 title: GNN（图神经网络）
 tmap.id: ce9b7fe8-4275-41ab-9a6c-b660271293e0
 type: text/vnd.tiddlywiki
 
 * 图网络基础
-** [[GCN-intro]]
+** [[图网络导引&GCN（图卷积网络）]]
