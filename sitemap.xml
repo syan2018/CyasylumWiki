@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:DeepLearning-Collection</loc>
-		<lastmod>2020-10-02</lastmod>
+		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:GCN-intro</loc>
 		<lastmod>2020-10-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:GNN（图神经网络）</loc>
+		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -20,7 +26,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:NLP（自然语言处理）</loc>
-		<lastmod>2020-10-02</lastmod>
+		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -62,7 +68,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2020-10-02</lastmod>
+		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
