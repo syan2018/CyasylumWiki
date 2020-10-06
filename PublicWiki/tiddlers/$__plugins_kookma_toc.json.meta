@@ -1,0 +1,12 @@
+author: Mohammad Rahmani
+core-version: >=5.1.21
+created: 20201006111412308
+dependents: 
+description: TOC: Table of contents and hierarchical navigation
+list: readme history license
+modified: 20201006111412308
+plugin-type: plugin
+source: https://github.com/kookma/TW-TOC
+title: $:/plugins/kookma/toc
+type: application/json
+version: 1.3.0

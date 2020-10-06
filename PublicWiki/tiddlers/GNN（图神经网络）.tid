@@ -1,12 +1,14 @@
 created: 20201005121221689
 creator: Syan
-modified: 20201006074911580
+modified: 20201006080754492
 modifier: Syan
 title: GNN（图神经网络）
 tmap.id: ce9b7fe8-4275-41ab-9a6c-b660271293e0
 type: text/vnd.tiddlywiki
 
 图神经网络（Graph Neural Networks）是深度学习的一种新范式，主要作用域非欧几里得域的图化结构，可以更好地建模事物之间的内在联系。目前我们将GNN时为能联合连接主义、符号主义、行为主义的新范式，存在很多值得挖掘的新东西，也是我目前主要想攻的邻域。
+
+分享学习过程中写的文章
 
 * 图网络基础
 ** [[图网络导引&GCN（图卷积网络）]]
