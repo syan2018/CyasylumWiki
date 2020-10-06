@@ -74,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:想法记录</loc>
-		<lastmod>2020-10-05</lastmod>
+		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -99,6 +99,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:考研复习</loc>
 		<lastmod>2020-10-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:遊人书山</loc>
+		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
