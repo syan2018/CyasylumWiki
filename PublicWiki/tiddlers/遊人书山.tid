@@ -1,8 +1,8 @@
 created: 20201006105601084
 creator: Syan
-modified: 20201006110943301
+modified: 20201006114050141
 modifier: Syan
-tags: 阅读
+tags: 阅读记录
 title: 遊人书山
 tmap.id: 51a179c4-ba3d-4a94-8062-a245edf8334a
 type: text/vnd.tiddlywiki
@@ -17,4 +17,4 @@ type: text/vnd.tiddlywiki
 
 虽然是将该计划作为todolist展示，但其实更多是作为回头形式，希望自己在完成其中某些部分的学习后来此处记录感想
 
-<<todolist-ui caption:"阅读涉猎计划" width:"40%" base:"youren_plan">>
+<<todolist-ui caption:"! 阅读涉猎计划" width:"40%" base:"youren_plan">>
