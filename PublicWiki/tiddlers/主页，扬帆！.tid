@@ -1,6 +1,6 @@
 created: 20201002090606711
 creator: Syan
-modified: 20201006120333672
+modified: 20201007111215664
 modifier: Syan
 title: 主页，扬帆！
 tmap.id: 8fc3c848-c272-40e0-b0b1-3c5c6d96b038
@@ -22,7 +22,11 @@ type: text/vnd.tiddlywiki
 
 分享一些学习经验
 
-* [[深度学习]]
+* [[计算机科学]]
+** [[深度学习]]
+** [[算法学习]]
+* [[信息技术]]
+** [[WEB前端]]
 
 以及记录种种时光~
 
@@ -30,7 +34,7 @@ type: text/vnd.tiddlywiki
 * [[阅读记录]]
 * [[想法记录]]
 * [[游戏推介]]
-
+* [[作品收集]]
 
 
 
