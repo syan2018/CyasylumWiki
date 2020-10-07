@@ -7,16 +7,22 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:Cyasylum%2520-%2520Set%2520Sail!%2520-%2520FirstHTML</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:GNN（图神经网络）</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Index</loc>
-		<lastmod>2020-10-06</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>1.0</priority>
+		<loc>https://syan2018.github.io/CyasylumWiki#:HTML&amp;CSS</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:NLP（自然语言处理）</loc>
@@ -43,6 +49,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:WEB前端</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:WEB学习日志——2020/10/7</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:Wiki</loc>
 		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -56,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2020-10-06</lastmod>
+		<lastmod>2020-10-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -69,6 +87,18 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:互联网精神及其讨论</loc>
 		<lastmod>2020-10-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:作品收集</loc>
+		<lastmod>2020-10-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:信息技术</loc>
+		<lastmod>2020-10-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -92,7 +122,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:深度学习</loc>
-		<lastmod>2020-10-06</lastmod>
+		<lastmod>2020-10-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
