@@ -562,7 +562,22 @@
     <div class="anmiComp"><span></span></div>
   </div>
   <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-  <script type="text/javascript" src="app.bundle.js"></script>
+  <script type="text/javascript">(function ($) {
+      var $mobileNav = $('.mobile-nav');
+      var $mobileNavToggle = $('.mobile-nav-toggle');
+      $mobileNavToggle.on('click', function (e) {
+        $mobileNav.toggleClass('is-open');
+        $mobileNavToggle.toggleClass('is-open');
+      })
+      $(window).resize(function () {
+        if ($(window).width() > 550) {
+          $mobileNavToggle.removeClass('is-open');
+          $mobileNav.removeClass('is-open');
+        }
+
+      })
+    })(jQuery)
+  </script>
 </body>
 
 </html>
