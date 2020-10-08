@@ -8,7 +8,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:Cyasylum%2520-%2520Set%2520Sail!%2520-%2520FirstHTML</loc>
-		<lastmod>2020-10-07</lastmod>
+		<lastmod>2020-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -74,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2020-10-07</lastmod>
+		<lastmod>2020-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -87,6 +87,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:互联网精神及其讨论</loc>
 		<lastmod>2020-10-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:五十音图</loc>
+		<lastmod>2020-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -109,6 +115,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:小世界网络</loc>
+		<lastmod>2020-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:想法记录</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -121,6 +133,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:无标度网络</loc>
+		<lastmod>2020-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:深度学习</loc>
 		<lastmod>2020-10-07</lastmod>
 		<changefreq>monthly</changefreq>
@@ -129,6 +147,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:游戏推介</loc>
 		<lastmod>2020-10-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:网络科学</loc>
+		<lastmod>2020-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
