@@ -127,8 +127,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:复杂网络</loc>
+		<lastmod>2020-10-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:小世界网络</loc>
 		<lastmod>2020-10-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:巴拉巴西-阿尔伯特模型</loc>
+		<lastmod>2020-10-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -146,7 +158,13 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:无标度网络</loc>
-		<lastmod>2020-10-08</lastmod>
+		<lastmod>2020-10-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:比安科尼-巴拉巴西模型</loc>
+		<lastmod>2020-10-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -164,7 +182,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:网络科学</loc>
-		<lastmod>2020-10-08</lastmod>
+		<lastmod>2020-10-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
