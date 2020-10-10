@@ -1,0 +1,28 @@
+created: 20201010115054907
+creator: Syan
+modified: 20201010122304621
+modifier: Syan
+tags: 网络科学 Wiki
+title: 比安科尼-巴拉巴西模型
+tmap.id: 118204ee-4a1c-4db6-8f54-42dea412fcb7
+type: text/vnd.tiddlywiki
+
+比安科尼-巴拉巴西模型为巴拉巴西-阿尔伯特模型的修正
+
+为了破除绝对的先发优势，BB模型引入了用于刻画节点适应性的随机属性$$\eta$$（可能服从于标准正态分布），将连接到节点的概率转化为以下形式：
+
+$$
+\Pi_i=\frac{\eta_ik_i}{\sum_j\eta_jk_j}
+$$
+
+有节点度的变化速度记作
+
+$$
+\frac{\partial k_i}{\partial t}=\frac{m\eta_ik_i}{\sum_j\eta_jk_j}
+$$
+
+用于描述节点度的平均场，解节点度的变化速度方程
+
+$$
+k_i(t_i)=m\left( \frac{t}{t_i} \right)^{\beta(\eta_i)}
+$$
