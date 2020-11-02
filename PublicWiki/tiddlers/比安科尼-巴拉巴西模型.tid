@@ -1,6 +1,6 @@
 created: 20201010115054907
 creator: Syan
-modified: 20201027062144508
+modified: 20201102141653823
 modifier: Syan
 tags: 网络科学
 title: 比安科尼-巴拉巴西模型
@@ -25,4 +25,18 @@ $$
 
 $$
 k_i(t_i)=m\left( \frac{t}{t_i} \right)^{\beta(\eta_i)}
+$$
+
+!! else
+
+当BB模型中适应性分布满足以下条件时，网络存在完全的赢家通吃，即玻色爱因斯坦凝聚现象
+
+$$
+\int^{\eta_{\max}}_{\eta_{\min}}\frac{\eta\rho(\eta)}{1-\eta}\mathrm{d}\eta<1\\
+$$
+
+有以下适应性分布满足上述条件
+
+$$
+\rho(\eta)=(1-\xi)(1-\eta)^\xi
 $$
