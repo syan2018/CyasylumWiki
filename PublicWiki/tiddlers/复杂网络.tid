@@ -1,6 +1,6 @@
 created: 20201010083146132
 creator: Syan
-modified: 20201027062756582
+modified: 20201103001957571
 modifier: Syan
 tags: 网络科学
 title: 复杂网络
@@ -13,3 +13,4 @@ type: text/vnd.tiddlywiki
 * [[无标度网络]]
 * [[巴拉巴西-阿尔伯特模型]]
 * [[比安科尼-巴拉巴西模型]]
+* [[演化网络]]
