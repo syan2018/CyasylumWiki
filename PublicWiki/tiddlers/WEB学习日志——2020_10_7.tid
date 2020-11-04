@@ -1,8 +1,8 @@
 created: 20201007103802248
 creator: Syan
-modified: 20201007112552399
+modified: 20201027063859472
 modifier: Syan
-tags: 日志 HTML&CSS
+tags: 日志 WEB前端
 title: WEB学习日志——2020/10/7
 tmap.id: b5e0a3c0-12a8-4a5a-b2f7-6c8592adc670
 type: text/vnd.tiddlywiki
@@ -20,5 +20,3 @@ type: text/vnd.tiddlywiki
 [img[https://raw.githubusercontent.com/syan2018/google-search-page-html-css/master/images/show.png]]
 
 但由于我暂且使用的是pug+sass进行编写，所以与html+css的通用语法存在着固然的差别。因此，为了熟悉原始语言的使用，我还会在后续学习过程中继续学习CSS，并记录更多相关的tricks及知识！
-
-详见[[HTML&CSS——学习]]
