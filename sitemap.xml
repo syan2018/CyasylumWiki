@@ -139,6 +139,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:因果之梯</loc>
+		<lastmod>2020-11-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:因果科学</loc>
+		<lastmod>2020-11-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:图网络导引&amp;GCN（图卷积网络）</loc>
 		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -218,7 +230,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:系统科学</loc>
-		<lastmod>2020-11-03</lastmod>
+		<lastmod>2020-11-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
