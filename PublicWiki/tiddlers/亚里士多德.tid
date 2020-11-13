@@ -1,11 +1,17 @@
 created: 20201023123247647
 creator: Syan
-modified: 20201108021403144
+modified: 20201113052432718
 modifier: Syan
 tags: 西方哲学
 title: 亚里士多德
 tmap.id: b975dde6-9088-4c4e-8322-1a5ae1ebae1f
 type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'TableOfContents'>>
+
+</div>
 
 亚里士多德对哲学体系主要的作用在于其将逻辑学、形而上学、伦理学、政治学、美学等邻域从哲学中剥离出来考察。
 
