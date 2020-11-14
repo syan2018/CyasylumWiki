@@ -116,7 +116,13 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:亚里士多德</loc>
-		<lastmod>2020-11-13</lastmod>
+		<lastmod>2020-11-14</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:伊比鸠鲁</loc>
+		<lastmod>2020-11-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -254,7 +260,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:西方哲学</loc>
-		<lastmod>2020-10-27</lastmod>
+		<lastmod>2020-11-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
