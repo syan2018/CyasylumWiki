@@ -74,7 +74,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:Wiki分类词条</loc>
-		<lastmod>2020-10-27</lastmod>
+		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -92,7 +92,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:中国图书馆分类法</loc>
-		<lastmod>2020-10-27</lastmod>
+		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -127,6 +127,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:交换过程</loc>
+		<lastmod>2020-11-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:伊比鸠鲁</loc>
 		<lastmod>2020-11-14</lastmod>
 		<changefreq>monthly</changefreq>
@@ -152,7 +158,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:商品</loc>
-		<lastmod>2020-11-18</lastmod>
+		<lastmod>2020-11-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -260,7 +266,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:考研复习</loc>
-		<lastmod>2020-10-23</lastmod>
+		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -289,6 +295,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学%2520821</loc>
+		<lastmod>2020-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:遊人书山</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -297,6 +309,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:阅读记录</loc>
 		<lastmod>2020-11-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:马克思主义</loc>
+		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
