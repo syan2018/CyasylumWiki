@@ -13,6 +13,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:Dashboard</loc>
+		<lastmod>2020-11-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:GNN（图神经网络）</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -98,7 +104,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2020-11-20</lastmod>
+		<lastmod>2020-11-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -278,7 +284,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:考研复习</loc>
-		<lastmod>2020-11-19</lastmod>
+		<lastmod>2020-11-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -308,7 +314,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:货币/商品流通</loc>
-		<lastmod>2020-11-24</lastmod>
+		<lastmod>2020-11-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -321,6 +327,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学%2520821</loc>
 		<lastmod>2020-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学-第一轮复习</loc>
+		<lastmod>2020-11-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
