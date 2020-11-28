@@ -1,0 +1,11 @@
+created: 20200425205442979
+dependents: $:/plugins/kixam/moment $:/plugins/kixam/datepicker $:/plugins/flibbles/relink
+description: Simple project management for TiddlyWiki
+list: installation usage
+modified: 20201127015110354
+name: Project Manager
+plugin-type: plugin
+tags: 
+title: $:/plugins/nico/pm
+type: application/json
+version: 0.0.48

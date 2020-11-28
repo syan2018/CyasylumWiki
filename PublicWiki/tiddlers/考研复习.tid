@@ -1,11 +1,13 @@
 created: 20201002100059971
 creator: Syan
-modified: 20201119020500089
+modified: 20201127020815384
 modifier: Syan
-tags: 
+tags: Project
 title: 考研复习
 tmap.id: eb6cdb62-26be-4db7-b4bf-8e5ee1d40cb3
 type: text/vnd.tiddlywiki
+
+<<project>>
 
 一个面向未来式的条目，目标是北京师范大学系统科学系，需要努力
 
@@ -28,5 +30,3 @@ type: text/vnd.tiddlywiki
 ! 复习资料
 
 !! [[运筹学 821]]
-
-{{运筹学 821}}
