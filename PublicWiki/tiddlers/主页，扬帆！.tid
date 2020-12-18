@@ -1,6 +1,6 @@
 created: 20201002090606711
 creator: Syan
-modified: 20201127020347799
+modified: 20201216003330479
 modifier: Syan
 title: 主页，扬帆！
 tmap.id: 8fc3c848-c272-40e0-b0b1-3c5c6d96b038
@@ -43,3 +43,8 @@ type: text/vnd.tiddlywiki
 
 
 <<todolist-ui caption:"! 长期目标" width:"60%" base:"base">>
+
+
+! [[Dashboard]]
+{{Dashboard}}
+
