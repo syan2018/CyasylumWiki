@@ -1,7 +1,9 @@
 created: 20200418123214612
-modified: 20210105025402066
+creator: Syan
+modified: 20210105063322294
+modifier: Syan
 tags: $:/giffmex/stroll
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold
 type: text/vnd.tiddlywiki
 
-reveal
+hide
