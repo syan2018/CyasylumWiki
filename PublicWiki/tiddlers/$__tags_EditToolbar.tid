@@ -1,6 +1,8 @@
 created: 20200519141000553
-list: $:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save
-modified: 20210105025402078
+creator: Syan
+list: $:/_sq/Stories/divertTiddlerEditMacro $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/delete $:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save
+modified: 20210105070903586
+modifier: Syan
 tags: $:/giffmex/bigeditarea $:/giffmex/stroll
 title: $:/tags/EditToolbar
 type: text/vnd.tiddlywiki

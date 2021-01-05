@@ -30,16 +30,16 @@ html body.tc-body .source {color:#777;font-size:10pt;}
 
 /*ICON COLORS*/
 
-html body.tc-body .tc-image-edit-button {stroke: white;fill:#555;}
+html body.tc-body .tc-image-edit-button {stroke: white;fill:#ccc;}
 html body.tc-body .tc-image-chevron-up {stroke: white;fill:#ccc;}
 html body.tc-body .tc-image-chevron-down {stroke: white;fill:#ccc;}
 html body.tc-body .tc-image-fold-button {stroke: white;fill:#ccc;}
-html body.tc-body .tc-image-close-button {stroke: white;fill:#555;}
+html body.tc-body .tc-image-close-button {stroke: white;fill:#ccc;}
 html body.tc-body .tc-image-unfold-button {stroke: white;fill:#ccc;}
-html body.tc-body .tc-image-preview-open {stroke: white;fill:#f29;font-size:150%;}
-html body.tc-body .tc-image-delete-button {stroke: white;fill:#ff2222;}
-html body.tc-body .tc-image-cancel-button {stroke: white;fill:#ffdd55;}
-html body.tc-body .tc-image-done-button {stroke: white;fill:#094;}
+html body.tc-body .tc-image-preview-open {stroke: white;fill:#555;}
+html body.tc-body .tc-image-delete-button {stroke: white;fill:#555;}
+html body.tc-body .tc-image-cancel-button {stroke: white;fill:#ccc;}
+html body.tc-body .tc-image-done-button {stroke: white;fill:#ccc;}
 
 /*INDENTING*/
 
