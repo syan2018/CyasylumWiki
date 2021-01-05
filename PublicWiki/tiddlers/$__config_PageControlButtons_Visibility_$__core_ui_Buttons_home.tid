@@ -1,7 +1,9 @@
 created: 20200502172232641
-modified: 20210105025402046
+creator: Syan
+modified: 20210105061956281
+modifier: Syan
 tags: $:/giffmex/stroll
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home
 type: text/vnd.tiddlywiki
 
-reveal
+show
