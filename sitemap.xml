@@ -145,6 +145,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:传输层</loc>
+		<lastmod>2021-01-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:作品收集</loc>
 		<lastmod>2020-10-07</lastmod>
 		<changefreq>monthly</changefreq>
@@ -248,7 +254,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:数据链路层</loc>
-		<lastmod>2020-12-16</lastmod>
+		<lastmod>2021-01-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -314,7 +320,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:网络层</loc>
-		<lastmod>2020-12-26</lastmod>
+		<lastmod>2021-01-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
