@@ -1,12 +1,13 @@
 author: Mohammad Rahmani
 core-version: >=5.1.21
-created: 20201006111418238
+created: 20210105080652254
 dependents: 
-description: Timelines
+description: create horizontal and vertical timelines
 list: readme history license
-modified: 20201006111418238
+modified: 20210105080652254
+name: Timelines
 plugin-type: plugin
 source: https://github.com/kookma/TW-Timelines
 title: $:/plugins/kookma/timelines
 type: application/json
-version: 2.0.16
+version: 1.0.0

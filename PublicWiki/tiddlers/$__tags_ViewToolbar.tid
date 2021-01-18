@@ -1,7 +1,7 @@
 created: 20200127144249151
 creator: Syan
-list: $:/_sq/Stories/divertTiddlerMacro $:/core/ui/Buttons/fold $:/.giffmex/ViewToolbar/new-note-here $:/.giffmex/ViewToolbar/new-note-here-datetime $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/plugins/tiddlywiki/text-slicer/ui/slice-toolbar-button $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/plugins/felixhayashi/tiddlymap/misc/quickConnectButton
-modified: 20210105071013738
+list: $:/plugins/felixhayashi/tiddlymap/misc/quickConnectButton $:/core/ui/Buttons/fold $:/.giffmex/ViewToolbar/new-note-here $:/.giffmex/ViewToolbar/new-note-here-datetime $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/plugins/tiddlywiki/text-slicer/ui/slice-toolbar-button $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/_sq/Stories/divertTiddlerMacro
+modified: 20210105075348563
 modifier: Syan
 tags: $:/giffmex/stroll
 title: $:/tags/ViewToolbar
