@@ -637,13 +637,13 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "主页，扬帆！",
+        "title": "应用层",
         "fromPageRect": {
-            "top": 61,
-            "left": 1477.109375,
+            "top": 46,
+            "left": 700.609375,
             "width": 32.890625,
-            "right": 1510,
-            "bottom": 100,
+            "right": 733.5,
+            "bottom": 85,
             "height": 39
         }
     }
