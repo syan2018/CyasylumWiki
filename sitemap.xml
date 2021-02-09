@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:C4D高级影像</loc>
+		<lastmod>2021-02-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:CV（计算机视觉）</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -80,7 +86,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:Wiki分类词条</loc>
-		<lastmod>2020-11-19</lastmod>
+		<lastmod>2021-02-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -104,7 +110,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2021-01-19</lastmod>
+		<lastmod>2021-02-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -159,6 +165,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:信息技术</loc>
 		<lastmod>2020-10-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:关于科学的讨论</loc>
+		<lastmod>2021-02-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -325,6 +337,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:绘画基础</loc>
+		<lastmod>2021-01-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:网络层</loc>
 		<lastmod>2021-01-21</lastmod>
 		<changefreq>monthly</changefreq>
@@ -333,6 +351,24 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:网络科学</loc>
 		<lastmod>2020-10-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:美学</loc>
+		<lastmod>2021-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:美的普遍性</loc>
+		<lastmod>2021-02-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:美的特殊性</loc>
+		<lastmod>2021-02-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
