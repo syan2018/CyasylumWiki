@@ -1,6 +1,6 @@
 created: 20201027045739136
 creator: Syan
-modified: 20201119100849673
+modified: 20210207141532419
 modifier: Syan
 tags: Wiki
 title: Wiki分类词条
@@ -22,7 +22,7 @@ type: text/vnd.tiddlywiki
 ** 中国哲学
 ** 禅宗哲学
 * 伦理学
-* 美学
+* [[美学]]
 * 心理学
 ** 普通心理学
 ** 社会心理学
