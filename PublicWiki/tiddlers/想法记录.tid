@@ -1,6 +1,6 @@
 created: 20201005080748577
 creator: Syan
-modified: 20201009134650192
+modified: 20210213102633731
 modifier: Syan
 tags: Index
 title: 想法记录
@@ -10,12 +10,5 @@ type: text/vnd.tiddlywiki
 谥言的一些想法记录，主要可能包括一点深度学习、心理、社会、哲学的小想法，以及一些想做的事情。
 
 应该是按照日期轴排列的吧√
-
-* 2020
-** 10/05
-*** [[互联网精神]]及其[[讨论|互联网精神及其讨论]]
-** 10/09
-*** [[创业、逻辑与资本]]
-
 
 <<timeline-vertical filter:"[tag[想法记录]]" class:light>>

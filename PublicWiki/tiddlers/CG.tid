@@ -1,0 +1,26 @@
+created: 20210213102952674
+creator: Syan
+modified: 20210213103601413
+modifier: Syan
+tags: Wiki
+title: CG
+tmap.id: 5e154e99-60d7-4c3e-b393-8f8c2d551f64
+type: text/vnd.tiddlywiki
+
+CG，Computer Graphics的英文缩写，是通过计算机软件所绘制的一切图形的总称。包括技术也包括艺术，几乎囊括了当今电脑时代中所有的视觉艺术创作活动，如平面印刷品的设计、网页设计、三维动画、影视特效、多媒体技术、以计算机辅助设计为主的建筑设计及工业造型设计等。
+
+技术栈：
+
+* 三维渲染
+** 技术：[[PBR材质]]
+** 软件：Octane
+* 三维建模
+** 软件：C4D
+** 软件：Blender
+* 动画
+** 门类：[[MAD]]
+** 软件：[[After Effects]]
+* 美术
+** 知识：[[构图]]
+** 知识：[[光影]]
+** 知识：[[绘画基础]]

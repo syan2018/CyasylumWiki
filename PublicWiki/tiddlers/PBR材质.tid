@@ -1,0 +1,33 @@
+created: 20210213064854156
+creator: Syan
+modified: 20210213085237069
+modifier: Syan
+tags: 渲染 三维
+title: PBR材质
+tmap.id: 3575b961-039a-4184-b98d-8adff11d65b4
+type: text/vnd.tiddlywiki
+
+physically-based rendering，指写实渲染的真实世界光学流程
+
+主要分为Specular流程及Metallic流程，其中specular主要用于照片级渲染，metallic流程主要用于实时渲染（游戏）
+
+* Specular
+** Diffuse(albedo) 漫射颜色，不包含镜面
+** Specular 定义镜面颜色及反射程度
+** Glossiness 定义粗糙度
+* Metallic
+** Base Color 定义所有颜色
+** Metallic 仅定义反射程度、强弱
+** Roughness 定义粗糙度
+
+PBR材质是通过不同通道的贴图混合构建的，给出主要属性列表
+
+
+* 漫射贴图 Diffuse/Albedo/Base Color
+* 反射贴图 Specular/Reflection/Metalness
+* 粗糙贴图 Glossiness/Roughness
+* 凹凸贴图 Bump
+* 法线贴图 Normal
+* 置换贴图 Displacement
+* ~~环境光遮蔽 AO (Ambient Occlusion)~~
+
