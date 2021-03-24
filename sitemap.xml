@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:C4D高级影像</loc>
-		<lastmod>2021-02-07</lastmod>
+		<loc>https://syan2018.github.io/CyasylumWiki#:CG</loc>
+		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -20,13 +20,19 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:Dashboard</loc>
-		<lastmod>2020-11-27</lastmod>
+		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:GNN（图神经网络）</loc>
 		<lastmod>2020-10-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:Gamitask</loc>
+		<lastmod>2021-03-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -39,6 +45,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:NLP（自然语言处理）</loc>
 		<lastmod>2020-10-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:PBR材质</loc>
+		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -110,7 +122,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2021-02-08</lastmod>
+		<lastmod>2021-03-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -181,6 +193,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:劳动过程/价值增殖过程</loc>
+		<lastmod>2021-03-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:后殖民主义美学</loc>
+		<lastmod>2021-02-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:商品</loc>
 		<lastmod>2020-11-20</lastmod>
 		<changefreq>monthly</changefreq>
@@ -217,8 +241,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:女性主义美学</loc>
+		<lastmod>2021-02-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:学习方案——哲学</loc>
 		<lastmod>2020-10-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:审美意识形态</loc>
+		<lastmod>2021-02-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:审美经验问题</loc>
+		<lastmod>2021-02-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -247,8 +289,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:康德美学</loc>
+		<lastmod>2021-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:弗洛伊德</loc>
+		<lastmod>2021-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:想法记录</loc>
-		<lastmod>2020-10-09</lastmod>
+		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -338,7 +392,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:绘画基础</loc>
-		<lastmod>2021-01-24</lastmod>
+		<lastmod>2021-02-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -356,19 +410,25 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:美学</loc>
-		<lastmod>2021-02-09</lastmod>
+		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:美的普遍性</loc>
-		<lastmod>2021-02-09</lastmod>
+		<lastmod>2021-02-13</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:美的本质问题</loc>
+		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:美的特殊性</loc>
-		<lastmod>2021-02-09</lastmod>
+		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -416,13 +476,13 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:资本论</loc>
-		<lastmod>2020-11-28</lastmod>
+		<lastmod>2021-03-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:资本转化</loc>
-		<lastmod>2020-12-03</lastmod>
+		<lastmod>2021-03-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -451,6 +511,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:阶级认同与审美趣味</loc>
+		<lastmod>2021-02-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:香农第二定理</loc>
 		<lastmod>2020-12-15</lastmod>
 		<changefreq>monthly</changefreq>
@@ -459,6 +525,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:马克思主义</loc>
 		<lastmod>2020-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:高级影像</loc>
+		<lastmod>2021-03-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
