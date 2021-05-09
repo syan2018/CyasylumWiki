@@ -103,6 +103,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:&quot;入&quot;-分镜表</loc>
+		<lastmod>2021-04-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:&quot;入&quot;</loc>
+		<lastmod>2021-04-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -115,6 +127,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:不变资本和可变资本</loc>
+		<lastmod>2021-03-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:中国图书馆分类法</loc>
 		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
@@ -122,7 +140,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2021-03-24</lastmod>
+		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -157,6 +175,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:从劳动到价值增殖</loc>
+		<lastmod>2021-03-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:伊比鸠鲁</loc>
 		<lastmod>2020-11-14</lastmod>
 		<changefreq>monthly</changefreq>
@@ -169,8 +193,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:佛学</loc>
+		<lastmod>2021-03-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:作品收集</loc>
-		<lastmod>2020-10-07</lastmod>
+		<lastmod>2021-03-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -193,8 +223,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:劳动过程/价值增殖过程</loc>
-		<lastmod>2021-03-24</lastmod>
+		<loc>https://syan2018.github.io/CyasylumWiki#:剩余价值率</loc>
+		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -231,6 +261,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:复杂网络</loc>
 		<lastmod>2020-11-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:大悲咒</loc>
+		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -313,14 +349,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:政治-第一轮复习</loc>
-		<lastmod>2020-12-16</lastmod>
+		<loc>https://syan2018.github.io/CyasylumWiki#:政治</loc>
+		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:数学三-第一轮复习</loc>
-		<lastmod>2020-12-16</lastmod>
+		<loc>https://syan2018.github.io/CyasylumWiki#:数学三</loc>
+		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -339,6 +375,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:日志</loc>
 		<lastmod>2020-11-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:景别</loc>
+		<lastmod>2021-04-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -434,13 +476,13 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:考研复习</loc>
-		<lastmod>2021-01-13</lastmod>
+		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:英语一-第一轮复习</loc>
-		<lastmod>2020-12-16</lastmod>
+		<loc>https://syan2018.github.io/CyasylumWiki#:英语一</loc>
+		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -476,7 +518,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:资本论</loc>
-		<lastmod>2021-03-24</lastmod>
+		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -493,8 +535,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学-第一轮复习</loc>
-		<lastmod>2020-12-16</lastmod>
+		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学</loc>
+		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -525,6 +567,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:马克思主义</loc>
 		<lastmod>2020-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:马克思主义基本原理概论</loc>
+		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
