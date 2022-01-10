@@ -1,601 +1,619 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:CG</loc>
+		<loc>https://onetwo.ren/wiki/#:CG</loc>
 		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:CV（计算机视觉）</loc>
+		<loc>https://onetwo.ren/wiki/#:CV（计算机视觉）</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Cyasylum%2520-%2520Set%2520Sail!%2520-%2520FirstHTML</loc>
+		<loc>https://onetwo.ren/wiki/#:Cyasylum%2520-%2520Set%2520Sail!%2520-%2520FirstHTML</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Dashboard</loc>
+		<loc>https://onetwo.ren/wiki/#:Dashboard</loc>
 		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:GNN（图神经网络）</loc>
+		<loc>https://onetwo.ren/wiki/#:GNN（图神经网络）</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Gamitask</loc>
+		<loc>https://onetwo.ren/wiki/#:Gamitask</loc>
 		<lastmod>2021-03-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:HTML&amp;CSS</loc>
+		<loc>https://onetwo.ren/wiki/#:HTML&amp;CSS</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:NLP（自然语言处理）</loc>
+		<loc>https://onetwo.ren/wiki/#:Have%2520fun%2520with</loc>
+		<lastmod>2022-01-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:NLP（自然语言处理）</loc>
 		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:PBR材质</loc>
+		<loc>https://onetwo.ren/wiki/#:PBR材质</loc>
 		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:TiddlyWikiIconBlack.png</loc>
+		<loc>https://onetwo.ren/wiki/#:TiddlyMap!!</loc>
+		<lastmod>2022-01-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlack.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:TiddlyWikiIconWhite.png</loc>
+		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlue.png</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:TiddlyWiki语法</loc>
+		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconWhite.png</loc>
+		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:TiddlyWiki语法</loc>
 		<lastmod>2020-11-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Transformer-复现</loc>
+		<loc>https://onetwo.ren/wiki/#:Transformer-复现</loc>
 		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:WEB前端</loc>
+		<loc>https://onetwo.ren/wiki/#:WEB前端</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:WEB学习日志——2020/10/7</loc>
+		<loc>https://onetwo.ren/wiki/#:WEB学习日志——2020/10/7</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Wiki</loc>
+		<loc>https://onetwo.ren/wiki/#:Wiki</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:Wiki分类词条</loc>
+		<loc>https://onetwo.ren/wiki/#:Wiki分类词条</loc>
 		<lastmod>2021-02-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:&quot;入&quot;-分镜表</loc>
+		<loc>https://onetwo.ren/wiki/#:&quot;入&quot;-分镜表</loc>
 		<lastmod>2021-04-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:&quot;入&quot;</loc>
+		<loc>https://onetwo.ren/wiki/#:&quot;入&quot;</loc>
 		<lastmod>2021-04-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:favicon.ico</loc>
+		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:《太阳》</loc>
+		<loc>https://onetwo.ren/wiki/#:《太阳》</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:不变资本和可变资本</loc>
+		<loc>https://onetwo.ren/wiki/#:不变资本和可变资本</loc>
 		<lastmod>2021-03-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:中国图书馆分类法</loc>
+		<loc>https://onetwo.ren/wiki/#:中国图书馆分类法</loc>
 		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:主页，扬帆！</loc>
-		<lastmod>2021-03-27</lastmod>
+		<loc>https://onetwo.ren/wiki/#:主页，扬帆！</loc>
+		<lastmod>2022-01-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:互联网精神</loc>
+		<loc>https://onetwo.ren/wiki/#:互联网精神</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:互联网精神及其讨论</loc>
+		<loc>https://onetwo.ren/wiki/#:互联网精神及其讨论</loc>
 		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:五十音图</loc>
+		<loc>https://onetwo.ren/wiki/#:五十音图</loc>
 		<lastmod>2020-10-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:亚里士多德</loc>
+		<loc>https://onetwo.ren/wiki/#:亚里士多德</loc>
 		<lastmod>2020-11-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:交换过程</loc>
+		<loc>https://onetwo.ren/wiki/#:交换过程</loc>
 		<lastmod>2020-11-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:从劳动到价值增殖</loc>
+		<loc>https://onetwo.ren/wiki/#:从劳动到价值增殖</loc>
 		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:伊比鸠鲁</loc>
+		<loc>https://onetwo.ren/wiki/#:伊比鸠鲁</loc>
 		<lastmod>2020-11-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:传输层</loc>
+		<loc>https://onetwo.ren/wiki/#:传输层</loc>
 		<lastmod>2021-01-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:佛学</loc>
+		<loc>https://onetwo.ren/wiki/#:佛学</loc>
 		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:作品收集</loc>
+		<loc>https://onetwo.ren/wiki/#:作品收集</loc>
 		<lastmod>2021-03-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:信息技术</loc>
+		<loc>https://onetwo.ren/wiki/#:信息技术</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:关于科学的讨论</loc>
+		<loc>https://onetwo.ren/wiki/#:关于科学的讨论</loc>
 		<lastmod>2021-02-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:创业、逻辑与资本</loc>
+		<loc>https://onetwo.ren/wiki/#:创业、逻辑与资本</loc>
 		<lastmod>2020-10-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:剩余价值率</loc>
+		<loc>https://onetwo.ren/wiki/#:剩余价值率</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:原牌</loc>
+		<loc>https://onetwo.ren/wiki/#:原牌</loc>
 		<lastmod>2022-01-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:后殖民主义美学</loc>
+		<loc>https://onetwo.ren/wiki/#:后殖民主义美学</loc>
 		<lastmod>2021-02-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:商品</loc>
+		<loc>https://onetwo.ren/wiki/#:商品</loc>
 		<lastmod>2020-11-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:因果之梯</loc>
+		<loc>https://onetwo.ren/wiki/#:因果之梯</loc>
 		<lastmod>2020-11-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:因果科学</loc>
+		<loc>https://onetwo.ren/wiki/#:因果科学</loc>
 		<lastmod>2020-11-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:图网络导引&amp;GCN（图卷积网络）</loc>
+		<loc>https://onetwo.ren/wiki/#:图网络导引&amp;GCN（图卷积网络）</loc>
 		<lastmod>2020-10-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:复杂网络</loc>
+		<loc>https://onetwo.ren/wiki/#:复杂网络</loc>
 		<lastmod>2020-11-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:大悲咒</loc>
+		<loc>https://onetwo.ren/wiki/#:大悲咒</loc>
 		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:奈氏准则</loc>
+		<loc>https://onetwo.ren/wiki/#:奈氏准则</loc>
 		<lastmod>2020-12-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:女性主义美学</loc>
+		<loc>https://onetwo.ren/wiki/#:女性主义美学</loc>
 		<lastmod>2021-02-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:学习方案——哲学</loc>
+		<loc>https://onetwo.ren/wiki/#:学习方案——哲学</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:审美意识形态</loc>
+		<loc>https://onetwo.ren/wiki/#:审美意识形态</loc>
 		<lastmod>2021-06-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:审美经验问题</loc>
+		<loc>https://onetwo.ren/wiki/#:审美经验问题</loc>
 		<lastmod>2021-02-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:小世界网络</loc>
+		<loc>https://onetwo.ren/wiki/#:小世界网络</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:巴拉巴西-阿尔伯特模型</loc>
+		<loc>https://onetwo.ren/wiki/#:巴拉巴西-阿尔伯特模型</loc>
 		<lastmod>2020-11-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:应用层</loc>
+		<loc>https://onetwo.ren/wiki/#:应用层</loc>
 		<lastmod>2021-01-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:度相关性</loc>
+		<loc>https://onetwo.ren/wiki/#:度相关性</loc>
 		<lastmod>2020-11-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:康德美学</loc>
+		<loc>https://onetwo.ren/wiki/#:康德美学</loc>
 		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:弗洛伊德</loc>
+		<loc>https://onetwo.ren/wiki/#:弗洛伊德</loc>
 		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:想法记录</loc>
+		<loc>https://onetwo.ren/wiki/#:想法记录</loc>
 		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:我不是盘神</loc>
+		<loc>https://onetwo.ren/wiki/#:我不是盘神</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:政治</loc>
+		<loc>https://onetwo.ren/wiki/#:政治</loc>
 		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:故事</loc>
+		<loc>https://onetwo.ren/wiki/#:故事</loc>
 		<lastmod>2021-05-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:数学三</loc>
+		<loc>https://onetwo.ren/wiki/#:数学三</loc>
 		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:数据链路层</loc>
+		<loc>https://onetwo.ren/wiki/#:数据链路层</loc>
 		<lastmod>2021-01-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:无标度网络</loc>
+		<loc>https://onetwo.ren/wiki/#:无标度网络</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:日志</loc>
+		<loc>https://onetwo.ren/wiki/#:日志</loc>
 		<lastmod>2020-11-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:景别</loc>
+		<loc>https://onetwo.ren/wiki/#:景别</loc>
 		<lastmod>2021-04-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:柏拉图</loc>
+		<loc>https://onetwo.ren/wiki/#:柏拉图</loc>
 		<lastmod>2020-10-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:比安科尼-巴拉巴西模型</loc>
+		<loc>https://onetwo.ren/wiki/#:比安科尼-巴拉巴西模型</loc>
 		<lastmod>2020-11-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:消费主义摆渡</loc>
+		<loc>https://onetwo.ren/wiki/#:消费主义摆渡</loc>
 		<lastmod>2020-12-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:深度学习</loc>
+		<loc>https://onetwo.ren/wiki/#:深度学习</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:游戏推介</loc>
+		<loc>https://onetwo.ren/wiki/#:游戏推介</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:演化网络</loc>
+		<loc>https://onetwo.ren/wiki/#:演化网络</loc>
 		<lastmod>2020-11-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:物理层</loc>
+		<loc>https://onetwo.ren/wiki/#:物理层</loc>
 		<lastmod>2020-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:目录结构</loc>
+		<loc>https://onetwo.ren/wiki/#:目录结构</loc>
 		<lastmod>2022-01-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:系统科学</loc>
+		<loc>https://onetwo.ren/wiki/#:系统科学</loc>
 		<lastmod>2020-11-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:绘画基础</loc>
+		<loc>https://onetwo.ren/wiki/#:绘画基础</loc>
 		<lastmod>2021-02-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:网络层</loc>
+		<loc>https://onetwo.ren/wiki/#:网络层</loc>
 		<lastmod>2021-01-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:网络科学</loc>
+		<loc>https://onetwo.ren/wiki/#:网络科学</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:美学</loc>
+		<loc>https://onetwo.ren/wiki/#:美学</loc>
 		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:美的普遍性</loc>
+		<loc>https://onetwo.ren/wiki/#:美的普遍性</loc>
 		<lastmod>2021-02-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:美的本质问题</loc>
+		<loc>https://onetwo.ren/wiki/#:美的本质问题</loc>
 		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:美的特殊性</loc>
+		<loc>https://onetwo.ren/wiki/#:美的特殊性</loc>
 		<lastmod>2021-02-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:考研复习</loc>
+		<loc>https://onetwo.ren/wiki/#:考研复习</loc>
 		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:英语一</loc>
+		<loc>https://onetwo.ren/wiki/#:英语一</loc>
 		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:西方哲学</loc>
+		<loc>https://onetwo.ren/wiki/#:西方哲学</loc>
 		<lastmod>2020-11-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:计算机网络</loc>
+		<loc>https://onetwo.ren/wiki/#:计算机网络</loc>
 		<lastmod>2020-12-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:计算科学</loc>
+		<loc>https://onetwo.ren/wiki/#:计算科学</loc>
 		<lastmod>2020-10-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:计网-概论</loc>
+		<loc>https://onetwo.ren/wiki/#:计网-概论</loc>
 		<lastmod>2020-11-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:货币/商品流通</loc>
+		<loc>https://onetwo.ren/wiki/#:货币/商品流通</loc>
 		<lastmod>2020-11-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:资本论</loc>
+		<loc>https://onetwo.ren/wiki/#:资本论</loc>
 		<lastmod>2021-03-27</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:资本转化</loc>
+		<loc>https://onetwo.ren/wiki/#:资本转化</loc>
 		<lastmod>2021-03-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学%2520821</loc>
+		<loc>https://onetwo.ren/wiki/#:运筹学%2520821</loc>
 		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:运筹学</loc>
+		<loc>https://onetwo.ren/wiki/#:运筹学</loc>
 		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:遊人书山</loc>
+		<loc>https://onetwo.ren/wiki/#:遊人书山</loc>
 		<lastmod>2020-10-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:阅读记录</loc>
+		<loc>https://onetwo.ren/wiki/#:阅读记录</loc>
 		<lastmod>2020-11-13</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:阶级认同与审美趣味</loc>
+		<loc>https://onetwo.ren/wiki/#:阶级认同与审美趣味</loc>
 		<lastmod>2021-02-28</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:香农第二定理</loc>
+		<loc>https://onetwo.ren/wiki/#:香农第二定理</loc>
 		<lastmod>2020-12-15</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:马克思主义</loc>
+		<loc>https://onetwo.ren/wiki/#:马克思主义</loc>
 		<lastmod>2020-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:马克思主义基本原理概论</loc>
+		<loc>https://onetwo.ren/wiki/#:马克思主义基本原理概论</loc>
 		<lastmod>2021-05-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://syan2018.github.io/CyasylumWiki#:高级影像</loc>
+		<loc>https://onetwo.ren/wiki/#:高级影像</loc>
 		<lastmod>2021-03-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
