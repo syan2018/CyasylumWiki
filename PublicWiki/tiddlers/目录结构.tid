@@ -1,0 +1,58 @@
+created: 20220110122803093
+creator: Syan
+modified: 20220110151855700
+modifier: Syan
+tags: 游戏开发 原牌
+title: 目录结构
+tmap.id: 98be2eee-c17a-48c4-a32f-f6f83fa398c4
+type: text/vnd.tiddlywiki
+
+* Assets：存放项目的主要文件
+** Prefabs：用于存放组件模板
+** Resources：用于存放动态数据和模型（供Resources类调用
+** Scenes：用于存放构建场景
+** Scripts：用于存放''代码文件''
+** UI Elements：用于存放静态UI数据（待修改，目前仅导入方便场景构建使用的包
+* DataScripts：存放策划表，以及将策划表格导入程序的脚本
+** 已存有初版卡牌数据，待整理
+* doc：测试&其它说明文档
+* Packages、ProjectSettings、UserSettings：Unity自动生成文件
+
+! 代码结构（随开发进程整理）
+
+现在描述程序主要开发目录结构
+
+* Card：（待收纳）为基础的卡牌类相关，作用域为整个游戏机制（包含组建卡组）
+* DataLoader：数据读取器
+** 目前仅有卡牌读取器CardLoader
+** 后续开发流程会更新技能读取器等（与策划交接）
+** 待确定美术资源是否也用读取器预读
+* GameMain：（待更名）卡牌战斗相关代码，游戏核心模块
+** BattleField：战场相关模块
+*** Bucket：格子类，管理游戏中单个可部署格子信息
+** Card：卡牌相关模块
+*** CardDeck：牌组管理器
+*** CardOnHand：手牌行为脚本
+** Common：游戏通用模块
+*** Constants：（待整理）常用枚举字段合集
+*** GameContext：游戏上下文管理器
+** Effect：效果实现模块（实现所有游戏行为，包括攻击、技能、伤害造成、Buff追加等）
+*** Buff：Buff实现（非初版任务
+*** Skill：技能实现（非初版任务
+*** Healing：恢复实现（非初版任务
+*** Damage：伤害实现*
+** GameManager：战斗管理器模块（通过消息系统对玩家行为触发脚本进行反馈）
+*** AttackManager：攻击管理器，实现玩家从点击单位生成攻击请求到确认目标实现的过程
+*** SummonManager：召唤管理器，实现玩家从点击卡牌生成召唤请求到确认地块实现的过程
+*** BattleFieldManager：战场管理器，实现战场中格子单位绑定、解绑，UI反馈高亮等事件
+** Player：玩家实现模块：掌握玩家数据，被上下文管理器所控制
+** Process：游戏进程模块：掌握游戏进程循环，被上下文管理器所控制，在进程中发布特定消息
+** UI：UI链接脚本，MonoBehaviors，实现UI组件的显示及更新，接收战斗管理器的消息
+** Unit：战斗单位模块
+*** Unit：基准单位类
+*** CharaUnit：继承基准单位角色类
+* Utils：工具集（待补充）
+** Messager：消息管理器，主要框架之一，待完善
+** Singleton：单例类，游戏中使用到单例统一实现形式
+
+! 需求结构
