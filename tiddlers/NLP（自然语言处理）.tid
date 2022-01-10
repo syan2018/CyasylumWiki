@@ -1,0 +1,17 @@
+created: 20201002101836379
+creator: Syan
+modified: 20201005123306686
+modifier: Syan
+tags: 深度学习
+title: NLP（自然语言处理）
+tmap.id: ec6afe29-9d70-4bee-a96f-df35b74dc54f
+type: text/vnd.tiddlywiki
+
+NLP (Natural Language Processing) 是人工智能（AI）的一个子领域，是人工智能中最为困难的问题之一。
+
+自然语言处理问题主要包含对语言成分的理解，从语言对象到心理表象的转化，以及语言翻译等等多模态问题。语言作为人类最伟大的发明，在对应的人工智能语境中也有着极高的价值。
+
+一个关于NLP学习条目的整合，因为余宙textCaps的胁迫开始这项工作
+
+* 机器翻译
+** [[Transformer-复现]]

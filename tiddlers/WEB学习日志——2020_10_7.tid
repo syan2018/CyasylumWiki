@@ -1,0 +1,22 @@
+created: 20201007103802248
+creator: Syan
+modified: 20201027063859472
+modifier: Syan
+tags: 日志 WEB前端
+title: WEB学习日志——2020/10/7
+tmap.id: b5e0a3c0-12a8-4a5a-b2f7-6c8592adc670
+type: text/vnd.tiddlywiki
+
+之所以会产生学习该技术的欲望，还真是因为以安装了TiddlyWiki为契机，基于[[林一二|https://onetwo.ren/]]的部署模式，我将本Wiki部署成了一个编辑自动发布github并激活生成静态HTML文件的机制。但是，该TiddlyWiki的基本部署方案是基于Node.js的，而我对此一窍不通。机缘巧合下我在知乎检索了Node.js框架相关的信息，并得知其作为一个经典前端框架，常常与Vue.js共同使用以构建动态网站。
+
+虽然关联并不大，但这仍让我唐突想起了[[Kevinz|https://kevinz.cn/]]及[[Dimpurr Cheny|http://im.dimpurr.com/]]极具个性的个人主页。再忆及[[LGY同志|https://lgyserver.top/]]的早先激励，遂起了通过尝试设计与建立个人主页，来学习WEB技术的念头。
+
+很高兴，2020/10/6&2020/10/7两天，我在bilibili上找到了一份精致的教程：[[从零开始搭建自己的个人作品集网站|https://www.bilibili.com/video/av82125489]]，并尝试性地跟着教程搭建了自己的第一面[[主页|http://cyasylum.top/]]，当然后面有很大概率被技术精进的我抹掉，因此我在本Wiki上留下了初体验的备份！可喜可贺！比较可惜的是由JavaScript构建的下拉菜单难以启用
+
+{{Cyasylum - Set Sail! - FirstHTML}}
+
+随后是跟从[[Web 前端怎样入门？——汪小黑的回答|https://www.zhihu.com/question/32314049/answer/713711753]]尝试了第一次使用HTML&CSS进行静态网页复刻，并把成果上传到GitHub上啦，这也是我的第一个自主知识产权GitHub仓库，可喜可贺：[[google-search-page-html-css|https://github.com/syan2018/google-search-page-html-css]]，就是还没调动效哈哈哈哈哈
+
+[img[https://raw.githubusercontent.com/syan2018/google-search-page-html-css/master/images/show.png]]
+
+但由于我暂且使用的是pug+sass进行编写，所以与html+css的通用语法存在着固然的差别。因此，为了熟悉原始语言的使用，我还会在后续学习过程中继续学习CSS，并记录更多相关的tricks及知识！

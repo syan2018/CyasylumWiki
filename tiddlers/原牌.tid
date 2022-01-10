@@ -1,0 +1,21 @@
+created: 20220110122045751
+creator: Syan
+modified: 20220110152653248
+modifier: Syan
+tags: 原牌 游戏 游戏开发
+title: 原牌
+tmap.id: 1385bc71-41ff-4156-af9f-c857e8ea5305
+type: text/vnd.tiddlywiki
+
+! 项目介绍
+
+原牌Genpai是一个网络合作项目，于2021年11月28日立项。
+
+原牌立项的核心目标是让收到秋招感谢信项目组成员能在即将到来的春招中取得理想的offer。项目的基本目标为设计一款原神的同人卡牌游戏，并引入卡牌游戏中绝无仅有的元素战斗系统，以及PVPVE的全新博弈模式。
+
+该git页面为原牌项目的程序开发版本管理器
+
+[[原牌|https://github.com/genpai-impact/genpai]]
+
+* [[目录结构]]
+* [[开发需求]]

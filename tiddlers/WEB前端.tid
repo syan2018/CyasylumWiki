@@ -1,0 +1,19 @@
+created: 20201007102339377
+creator: Syan
+modified: 20201027062307927
+modifier: Syan
+tags: 信息技术
+title: WEB前端
+tmap.id: e4d5082b-8693-47fc-af53-3691bba9583e
+type: text/vnd.tiddlywiki
+
+WEB前端开发是创建Web页面或app等前端界面呈现给用户的过程，通过HTML，CSS及JavaScript以及衍生出来的各种技术、框架、解决方案，来实现互联网产品的用户界面交互。它从网页制作演变而来，名称上有很明显的时代特征。在互联网的演化进程中，网页制作是Web1.0时代的产物，早期网站主要内容都是静态，以图片和文字为主，用户使用网站的行为也以浏览为主。随着互联网技术的发展和HTML5、CSS3的应用，现代网页更加美观，交互效果显著，功能更加强大。
+
+通常，WEB前端技术的学习是从HTML&CSS组织静态网页，到动态复杂系统开发顺序进行的，在学习中我主要参考了知乎作者[[汪小黑|https://www.zhihu.com/people/nai-ke-88]]在问题[[Web 前端怎样入门？|https://www.zhihu.com/question/32314049]]下的[[回答|https://www.zhihu.com/question/32314049/answer/713711753]]并根据此开始了个人的技术入栈过程
+
+千里之行，[[始于足下|WEB学习日志——2020/10/7]]
+
+* [[HTML&CSS]]
+* [[JavaScript]]
+* [[Vue.js]]
+* [[Node.js]]

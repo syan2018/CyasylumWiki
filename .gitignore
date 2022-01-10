@@ -1,8 +1,11 @@
 .DS_Store
 node_modules
-/public
-PublicWiki/output
-PublicWiki/tiddlers/private-MyTiddlyWiki
-/scripts/daemon
+output
+public-dist
 $__StoryList.tid
-package-lock.json
+settings/settings.json
+tiddlers/subwiki/
+
+# ignore some change from plugin that will only change "modified" field
+$__keepstate_utility_toggle-view-fields.tid
+tiddlers/$__Import.tid
