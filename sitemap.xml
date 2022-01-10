@@ -229,6 +229,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:原牌</loc>
+		<lastmod>2022-01-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:后殖民主义美学</loc>
 		<lastmod>2021-02-28</lastmod>
 		<changefreq>monthly</changefreq>
@@ -290,7 +296,7 @@
 	</url>
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:审美意识形态</loc>
-		<lastmod>2021-02-28</lastmod>
+		<lastmod>2021-06-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -351,6 +357,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:政治</loc>
 		<lastmod>2021-05-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:故事</loc>
+		<lastmod>2021-05-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -423,6 +435,12 @@
 	<url>
 		<loc>https://syan2018.github.io/CyasylumWiki#:物理层</loc>
 		<lastmod>2020-12-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://syan2018.github.io/CyasylumWiki#:目录结构</loc>
+		<lastmod>2022-01-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
