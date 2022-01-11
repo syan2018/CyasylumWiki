@@ -26,7 +26,7 @@ jobs:
         run: npm run build
 
       - name: Add CNAME
-        run: echo "wiki.cyasylum.top" > ./public/CNAME
+        run: echo "wiki.cyasylum.top" > ./public-dist/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
